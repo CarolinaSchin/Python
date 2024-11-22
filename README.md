@@ -12,7 +12,7 @@ Além disso, essa habilidade contribui para a tomada de decisões informadas e p
 
 Meu conhecimento em Python seguiu o seguinte caminho:
 
-**- Introduction to Programming with Python I**: conceitos fundamentais de programação com Python, funções e estruturas condicionais, strings e manipulação de texto no código Python, estrutura e estilo. As habilidades desenvolvidas foram demostradas codificando uma versão simples de um clássico jogo de aventura baseado em texto.
+**- Introduction to Programming with Python I**: conceitos fundamentais de programação com Python, funções e estruturas condicionais, strings e manipulação de texto no código Python, estrutura e estilo. As habilidades desenvolvidas foram demostradas codificando uma versão simples de um clássico [jogo de aventura](https://github.com/CarolinaSchin/Python/blob/main/game.py) baseado em texto.
 
 **- Introduct to Programming with Python II**: listar arquivos em um diretório, mover arquivos, ler e escrever o conteúdo de arquivos de texto, interagir com APIs da Web usando o módulo requests, manipular JSON e usar dicionários. Como forma de praticar meus conhecimentos de Programação Orientada a Objetos, desenvolvi um jogo de Pedra, Papel e Tesoura onde um humano pode jogar contra um computador.
 
